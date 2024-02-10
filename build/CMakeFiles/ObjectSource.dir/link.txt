@@ -1,0 +1,2 @@
+/usr/bin/ar qc libObjectSource.a CMakeFiles/ObjectSource.dir/book.cpp.o CMakeFiles/ObjectSource.dir/person.cpp.o
+/usr/bin/ranlib libObjectSource.a

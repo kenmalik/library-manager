@@ -1,4 +1,0 @@
-/home/kenmalik/Documents/2022-2023 CLASSES/SUMMER/CS003A/Projects/library-manager/build/CMakeFiles/Main.dir
-/home/kenmalik/Documents/2022-2023 CLASSES/SUMMER/CS003A/Projects/library-manager/build/CMakeFiles/ObjectSource.dir
-/home/kenmalik/Documents/2022-2023 CLASSES/SUMMER/CS003A/Projects/library-manager/build/CMakeFiles/edit_cache.dir
-/home/kenmalik/Documents/2022-2023 CLASSES/SUMMER/CS003A/Projects/library-manager/build/CMakeFiles/rebuild_cache.dir

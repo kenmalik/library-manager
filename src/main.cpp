@@ -48,10 +48,10 @@ void showAllBooksMenu(Library&);
 
 int main() {
 	Library lib;
-	lib.readBookData("resources/book.txt");
+	lib.readBookData("../resources/book.txt");
 
 	Roster rost;
-	rost.readPersonData("resources/person.txt");
+	rost.readPersonData("../resources/person.txt");
 
 	bool loopMenu = 1;
 	while (loopMenu) {
